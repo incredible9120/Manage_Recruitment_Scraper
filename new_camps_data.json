@@ -1,0 +1,1077 @@
+{
+  "california_Bakersfield_Nike Soccer Camp powered by Steel Sports - Bakersfield": {
+    "state": "california",
+    "city": "Bakersfield",
+    "camp_name": "Nike Soccer Camp powered by Steel Sports - Bakersfield",
+    "latitude": 35.3738712,
+    "longitude": -119.019463,
+    "sessions": [
+      {
+        "period": "JUN. 23 - JUN. 27, 2025",
+        "gender": "Co-Ed",
+        "age": "Ages: 7 - 14",
+        "subsessions": [
+          {
+            "skill": "<strong>All Skills</strong>",
+            "type": "Half Day (9:00am-12:00pm)",
+            "cost": "$259 Tuition + $30 Registration Fee"
+          }
+        ]
+      }
+    ]
+  },
+  "california_San Clemente_Nike Soccer Camp with Prospect Soccer Academy - San Clemente": {
+    "state": "california",
+    "city": "San Clemente",
+    "camp_name": "Nike Soccer Camp with Prospect Soccer Academy - San Clemente",
+    "latitude": 39.4034745,
+    "longitude": -2.4281278,
+    "sessions": []
+  },
+  "california_San Marcos_Nike Soccer Camp at Cal State University - San Marcos": {
+    "state": "california",
+    "city": "San Marcos",
+    "camp_name": "Nike Soccer Camp at Cal State University - San Marcos",
+    "latitude": 29.8826436,
+    "longitude": -97.9405828,
+    "sessions": [
+      {
+        "period": "JUL. 20 - JUL. 24, 2025",
+        "gender": "Co-Ed",
+        "age": "Ages: 8 - 17",
+        "subsessions": [
+          {
+            "skill": "<strong>All Skills</strong>",
+            "type": "Day 9am-4pm",
+            "cost": "$479 Tuition + $30 Registration Fee"
+          }
+        ]
+      }
+    ]
+  },
+  "california_Santa Cruz_Nike Soccer Camp with Player ONE Performance - UC Santa Cruz": {
+    "state": "california",
+    "city": "Santa Cruz",
+    "camp_name": "Nike Soccer Camp with Player ONE Performance - UC Santa Cruz",
+    "latitude": 28.467178,
+    "longitude": -16.2507843,
+    "sessions": [
+      {
+        "period": "JUL. 20 - JUL. 24, 2025",
+        "gender": "Co-Ed",
+        "age": "Ages: 9 - 18",
+        "subsessions": [
+          {
+            "skill": "<strong>High Performance</strong>",
+            "type": "Extended 9:00am-9:00pm",
+            "cost": "$819 Tuition + $40 Registration Fee"
+          },
+          {
+            "skill": "<strong>High Performance</strong>",
+            "type": "Overnight",
+            "cost": "$1,019 Tuition + $40 Registration Fee"
+          }
+        ]
+      },
+      {
+        "period": "AUG. 3 - AUG. 7, 2025",
+        "gender": "Co-Ed",
+        "age": "Ages: 9 - 18",
+        "subsessions": [
+          {
+            "skill": "<strong>High Performance</strong>",
+            "type": "Extended 9:00am-9:00pm",
+            "cost": "$819 Tuition + $40 Registration Fee"
+          },
+          {
+            "skill": "<strong>High Performance</strong>",
+            "type": "Overnight",
+            "cost": "$1,019 Tuition + $40 Registration Fee"
+          }
+        ]
+      }
+    ]
+  },
+  "california_Saratoga_Nike Soccer Camp with Player ONE Performance - Saratoga H.S.": {
+    "state": "california",
+    "city": "Saratoga",
+    "camp_name": "Nike Soccer Camp with Player ONE Performance - Saratoga H.S.",
+    "latitude": 43.0833231,
+    "longitude": -73.8712155,
+    "sessions": [
+      {
+        "period": "JUN. 9 - JUN. 13, 2025",
+        "gender": "Co-Ed",
+        "age": "Ages: 6 - 14",
+        "subsessions": [
+          {
+            "skill": "<strong>Player ONE Performance (ages 11-14), Player ONE Playmakers (ages 6-10)</strong>",
+            "type": "Day 9:00am-3:00pm",
+            "cost": "$519 Tuition + $30 Registration Fee"
+          },
+          {
+            "skill": "<strong>Player ONE Performance (ages 11-14), Player ONE Playmakers (ages 6-10)</strong>",
+            "type": "Half Day 9:00am-12:00pm",
+            "cost": "$419 Tuition + $30 Registration Fee"
+          }
+        ]
+      },
+      {
+        "period": "JUL. 7 - JUL. 11, 2025",
+        "gender": "Co-Ed",
+        "age": "Ages: 6 - 14",
+        "subsessions": [
+          {
+            "skill": "<strong>Player ONE Performance (ages 11-14), Player ONE Playmakers (ages 6-10)</strong>",
+            "type": "Day 9:00am-3:00pm",
+            "cost": "$519 Tuition + $30 Registration Fee"
+          },
+          {
+            "skill": "<strong>Player ONE Performance (ages 11-14), Player ONE Playmakers (ages 6-10)</strong>",
+            "type": "Half Day 9:00am-12:00pm",
+            "cost": "$419 Tuition + $30 Registration Fee"
+          }
+        ]
+      }
+    ]
+  },
+  "california_South Gate_Nike Soccer Camp at Sofive South Gate": {
+    "state": "california",
+    "city": "South Gate",
+    "camp_name": "Nike Soccer Camp at Sofive South Gate",
+    "latitude": 33.9463456,
+    "longitude": -118.200981,
+    "sessions": [
+      {
+        "period": "JUL. 7 - JUL. 11, 2025",
+        "gender": "Co-Ed",
+        "age": "Ages: 6 - 16",
+        "subsessions": [
+          {
+            "skill": "<strong>All Skills</strong>",
+            "type": "Half Day 9:00am-12:00pm",
+            "cost": "$269 Tuition + $30 Registration Fee"
+          },
+          {
+            "skill": "<strong>All Skills</strong>",
+            "type": "Day 9:00am-3:00pm",
+            "cost": "$379 Tuition + $30 Registration Fee"
+          }
+        ]
+      },
+      {
+        "period": "JUL. 14 - JUL. 18, 2025",
+        "gender": "Co-Ed",
+        "age": "Ages: 6 - 16",
+        "subsessions": [
+          {
+            "skill": "<strong>All Skills</strong>",
+            "type": "Half Day 9:00am-12:00pm",
+            "cost": "$269 Tuition + $30 Registration Fee"
+          },
+          {
+            "skill": "<strong>All Skills</strong>",
+            "type": "Day 9:00am-3:00pm",
+            "cost": "$379 Tuition + $30 Registration Fee"
+          }
+        ]
+      }
+    ]
+  },
+  "california_Vallejo_Nike Soccer Camp at Cal Maritime - Vallejo": {
+    "state": "california",
+    "city": "Vallejo",
+    "camp_name": "Nike Soccer Camp at Cal Maritime - Vallejo",
+    "latitude": 38.1040864,
+    "longitude": -122.2566367,
+    "sessions": [
+      {
+        "period": "JUN. 23 - JUN. 27, 2025",
+        "gender": "Co-Ed",
+        "age": "Ages: 6 - 13",
+        "subsessions": [
+          {
+            "skill": "<strong>All Skills</strong>",
+            "type": "Half Day (9:00am-12:00pm)",
+            "cost": "$279 Tuition + $30 Registration Fee"
+          },
+          {
+            "skill": "<strong>All Skills</strong>",
+            "type": "Day (9:00am-3:00pm)",
+            "cost": "$389 Tuition + $30 Registration Fee"
+          }
+        ]
+      }
+    ]
+  },
+  "colorado_Colorado Springs_Nike Soccer Camps at the University of Colorado, Colorado Springs": {
+    "state": "colorado",
+    "city": "Colorado Springs",
+    "camp_name": "Nike Soccer Camps at the University of Colorado, Colorado Springs",
+    "latitude": 38.8339578,
+    "longitude": -104.825348,
+    "sessions": [
+      {
+        "period": "MAY. 26 - MAY. 29, 2025",
+        "gender": "Co-Ed",
+        "age": "Ages: 6 - 16",
+        "subsessions": [
+          {
+            "skill": "<strong>All Skills</strong>",
+            "type": "Day 9am-3pm",
+            "cost": "$409 Tuition + $30 Registration Fee"
+          },
+          {
+            "skill": "<strong>All Skills</strong>",
+            "type": "Half Day",
+            "cost": "$289 Tuition + $30 Registration Fee"
+          }
+        ]
+      },
+      {
+        "period": "JUN. 15 - JUN. 18, 2025",
+        "gender": "Co-Ed",
+        "age": "Ages: 9 - 13",
+        "subsessions": [
+          {
+            "skill": "<strong>All Skills</strong>",
+            "type": "Extended Day 9am-9pm",
+            "cost": "$709 Tuition + $40 Registration Fee"
+          },
+          {
+            "skill": "<strong>All Skills</strong>",
+            "type": "Overnight",
+            "cost": "$829 Tuition + $40 Registration Fee"
+          }
+        ]
+      },
+      {
+        "period": "JUL. 20 - JUL. 23, 2025",
+        "gender": "Co-Ed",
+        "age": "Ages: 14 - 16",
+        "subsessions": [
+          {
+            "skill": "<strong>Elite</strong>",
+            "type": "Extended Day 9am-9pm",
+            "cost": "$709 Tuition + $40 Registration Fee"
+          },
+          {
+            "skill": "<strong>Elite</strong>",
+            "type": "Overnight",
+            "cost": "$829 Tuition + $40 Registration Fee"
+          }
+        ]
+      }
+    ]
+  },
+  "colorado_Denver_Nike Soccer Camp at Regis University": {
+    "state": "colorado",
+    "city": "Denver",
+    "camp_name": "Nike Soccer Camp at Regis University",
+    "latitude": 39.7392364,
+    "longitude": -104.984862,
+    "sessions": []
+  },
+  "connecticut_Fairfield_Nike Girls Soccer Camp at Fairfield University": {
+    "state": "connecticut",
+    "city": "Fairfield",
+    "camp_name": "Nike Girls Soccer Camp at Fairfield University",
+    "latitude": 39.7886111,
+    "longitude": -82.6418883,
+    "sessions": [
+      {
+        "period": "JUL. 7 - JUL. 11, 2025",
+        "gender": "Girls",
+        "age": "Ages: 6 - 14",
+        "subsessions": [
+          {
+            "skill": "<strong>All Skills</strong>",
+            "type": "Half Day 9am-12pm",
+            "cost": "$349 Tuition + $30 Registration Fee"
+          }
+        ]
+      }
+    ]
+  },
+  "connecticut_Montville_Nike Soccer Camp With Rhode Island Surf in Montville": {
+    "state": "connecticut",
+    "city": "Montville",
+    "camp_name": "Nike Soccer Camp With Rhode Island Surf in Montville",
+    "latitude": 49.5479845,
+    "longitude": 1.0750949,
+    "sessions": [
+      {
+        "period": "JUL. 21 - JUL. 25, 2025",
+        "gender": "Co-Ed",
+        "age": "Ages: 5 - 15",
+        "subsessions": [
+          {
+            "skill": "<strong>All Skills</strong>",
+            "type": "Day 9am-3pm",
+            "cost": "$399 Tuition + $30 Registration Fee"
+          },
+          {
+            "skill": "<strong>All Skills</strong>",
+            "type": "Half Day 9am-12pm",
+            "cost": "$279 Tuition + $30 Registration Fee"
+          }
+        ]
+      }
+    ]
+  },
+  "connecticut_Trumbull_Nike Soccer Camp with Ole Soccer - Trumbull": {
+    "state": "connecticut",
+    "city": "Trumbull",
+    "camp_name": "Nike Soccer Camp with Ole Soccer - Trumbull",
+    "latitude": 41.2428742,
+    "longitude": -73.2006687,
+    "sessions": [
+      {
+        "period": "JUL. 28 - AUG. 1, 2025",
+        "gender": "Co-Ed",
+        "age": "Ages: 8 - 18",
+        "subsessions": [
+          {
+            "skill": "<strong>All Skills</strong>",
+            "type": "Half Day (9:00am-12:00pm)",
+            "cost": "$309 Tuition + $30 Registration Fee"
+          },
+          {
+            "skill": "<strong>All Skills</strong>",
+            "type": "Day (9:00am-3:00pm)",
+            "cost": "$439 Tuition + $30 Registration Fee"
+          }
+        ]
+      },
+      {
+        "period": "AUG. 4 - AUG. 8, 2025",
+        "gender": "Co-Ed",
+        "age": "Ages: 8 - 18",
+        "subsessions": [
+          {
+            "skill": "<strong>All Skills</strong>",
+            "type": "Half Day (9:00am-12:00pm)",
+            "cost": "$309 Tuition + $30 Registration Fee"
+          },
+          {
+            "skill": "<strong>All Skills</strong>",
+            "type": "Day (9:00am-3:00pm)",
+            "cost": "$439 Tuition + $30 Registration Fee"
+          }
+        ]
+      }
+    ]
+  },
+  "florida_Lakeland_Nike Girls Soccer Camp Southeastern University": {
+    "state": "florida",
+    "city": "Lakeland",
+    "camp_name": "Nike Girls Soccer Camp Southeastern University",
+    "latitude": 28.0394654,
+    "longitude": -81.9498042,
+    "sessions": []
+  },
+  "illinois_Barrington_Nike Soccer Camp in Barrington": {
+    "state": "illinois",
+    "city": "Barrington",
+    "camp_name": "Nike Soccer Camp in Barrington",
+    "latitude": 42.1539141,
+    "longitude": -88.1361888,
+    "sessions": []
+  },
+  "illinois_Lisle_Nike Soccer Camp at Benedictine University (Formerly at Elmhurst University)": {
+    "state": "illinois",
+    "city": "Lisle",
+    "camp_name": "Nike Soccer Camp at Benedictine University (Formerly at Elmhurst University)",
+    "latitude": 45.2787444,
+    "longitude": 0.5481384,
+    "sessions": [
+      {
+        "period": "JUL. 11 - JUL. 13, 2025",
+        "gender": "Co-Ed",
+        "age": "Ages: 8 - 18",
+        "subsessions": [
+          {
+            "skill": "<strong>Field Player, Goalkeeper</strong>",
+            "type": "Overnight",
+            "cost": "$599 Tuition + $40 Registration Fee"
+          },
+          {
+            "skill": "<strong>Field Player, Goalkeeper</strong>",
+            "type": "Extended Day 9am-8:30pm",
+            "cost": "$519 Tuition + $40 Registration Fee"
+          }
+        ]
+      }
+    ]
+  },
+  "illinois_Northbrook_Nike Soccer Camp in Northbrook": {
+    "state": "illinois",
+    "city": "Northbrook",
+    "camp_name": "Nike Soccer Camp in Northbrook",
+    "latitude": 42.128704,
+    "longitude": -87.8265089,
+    "sessions": []
+  },
+  "indiana_Indianapolis_Nike Boys Soccer Camp at Indiana University Indianapolis": {
+    "state": "indiana",
+    "city": "Indianapolis",
+    "camp_name": "Nike Boys Soccer Camp at Indiana University Indianapolis",
+    "latitude": 39.7683331,
+    "longitude": -86.1583502,
+    "sessions": [
+      {
+        "period": "JUN. 23 - JUN. 27, 2025",
+        "gender": "Boys",
+        "age": "Ages: 8 - 14",
+        "subsessions": [
+          {
+            "skill": "<strong>All Skills</strong>",
+            "type": "Day (9am-3pm)",
+            "cost": "$329 Tuition + $30 Registration Fee"
+          }
+        ]
+      },
+      {
+        "period": "JUN. 23 - JUN. 27, 2025",
+        "gender": "Boys",
+        "age": "Ages: 5 - 7",
+        "subsessions": [
+          {
+            "skill": "<strong>All Skills</strong>",
+            "type": "Half Day (9am-12pm)",
+            "cost": "$259 Tuition + $30 Registration Fee"
+          }
+        ]
+      },
+      {
+        "period": "JUL. 7 - JUL. 11, 2025",
+        "gender": "Boys",
+        "age": "Ages: 8 - 14",
+        "subsessions": [
+          {
+            "skill": "<strong>All Skills</strong>",
+            "type": "Day (9am-3pm)",
+            "cost": "$329 Tuition + $30 Registration Fee"
+          }
+        ]
+      },
+      {
+        "period": "JUL. 7 - JUL. 11, 2025",
+        "gender": "Boys",
+        "age": "Ages: 5 - 7",
+        "subsessions": [
+          {
+            "skill": "<strong>All Skills</strong>",
+            "type": "Half Day (9am-12pm)",
+            "cost": "$259 Tuition + $30 Registration Fee"
+          }
+        ]
+      }
+    ]
+  },
+  "maryland_Westminster_Nike Girls Soccer Camp at McDaniel College": {
+    "state": "maryland",
+    "city": "Westminster",
+    "camp_name": "Nike Girls Soccer Camp at McDaniel College",
+    "latitude": 51.5004439,
+    "longitude": -0.1265398,
+    "sessions": []
+  },
+  "massachusetts_Beverly_Nike Soccer Camp at Endicott College": {
+    "state": "massachusetts",
+    "city": "Beverly",
+    "camp_name": "Nike Soccer Camp at Endicott College",
+    "latitude": 42.5489744,
+    "longitude": -70.8781883,
+    "sessions": []
+  },
+  "massachusetts_Dedham_Nike Soccer Camp with Next Step Training - Dedham": {
+    "state": "massachusetts",
+    "city": "Dedham",
+    "camp_name": "Nike Soccer Camp with Next Step Training - Dedham",
+    "latitude": 42.2489143,
+    "longitude": -71.1755732,
+    "sessions": []
+  },
+  "massachusetts_Medway_Nike Soccer Camp with Next Step Training - Medway": {
+    "state": "massachusetts",
+    "city": "Medway",
+    "camp_name": "Nike Soccer Camp with Next Step Training - Medway",
+    "latitude": 51.4157386,
+    "longitude": 0.5687309,
+    "sessions": []
+  },
+  "michigan_Kalamazoo_Nike Boys College ID Soccer Camp - Kalamazoo College": {
+    "state": "michigan",
+    "city": "Kalamazoo",
+    "camp_name": "Nike Boys College ID Soccer Camp - Kalamazoo College",
+    "latitude": 42.291707,
+    "longitude": -85.5872286,
+    "sessions": []
+  },
+  "minnesota_Minneapolis-St. Paul_Nike Soccer Camp at Concordia University - St. Paul": {
+    "state": "minnesota",
+    "city": "Minneapolis-St. Paul",
+    "camp_name": "Nike Soccer Camp at Concordia University - St. Paul",
+    "latitude": 44.8780191,
+    "longitude": -93.2209281,
+    "sessions": []
+  },
+  "nebraska_Omaha_Nike Soccer Camp at Creighton Prep": {
+    "state": "nebraska",
+    "city": "Omaha",
+    "camp_name": "Nike Soccer Camp at Creighton Prep",
+    "latitude": 41.2587459,
+    "longitude": -95.9383758,
+    "sessions": []
+  },
+  "new-jersey_Lawrenceville_Nike Vogelsinger Soccer Camp with Beestera Soccer Training - The Lawrenceville School": {
+    "state": "new-jersey",
+    "city": "Lawrenceville",
+    "camp_name": "Nike Vogelsinger Soccer Camp with Beestera Soccer Training - The Lawrenceville School",
+    "latitude": 33.9566391,
+    "longitude": -83.9890066,
+    "sessions": []
+  },
+  "new-york_Cohoes_Nike Soccer Camp with Beestera Soccer Training - Latham": {
+    "state": "new-york",
+    "city": "Cohoes",
+    "camp_name": "Nike Soccer Camp with Beestera Soccer Training - Latham",
+    "latitude": 42.7742446,
+    "longitude": -73.7001187,
+    "sessions": [
+      {
+        "period": "JUL. 21 - JUL. 25, 2025",
+        "gender": "Co-Ed",
+        "age": "Ages: 5 - 15",
+        "subsessions": [
+          {
+            "skill": "<strong>Field Player, Goalkeeper</strong>",
+            "type": "Day 9:00am-3:00pm",
+            "cost": "$379 Tuition + $30 Registration Fee"
+          },
+          {
+            "skill": "<strong>Field Player, Goalkeeper</strong>",
+            "type": "Half Day 9:00am-12:00pm",
+            "cost": "$269 Tuition + $30 Registration Fee"
+          }
+        ]
+      },
+      {
+        "period": "AUG. 25 - AUG. 29, 2025",
+        "gender": "Co-Ed",
+        "age": "Ages: 5 - 15",
+        "subsessions": [
+          {
+            "skill": "<strong>Field Player, Goalkeeper</strong>",
+            "type": "Day 9:00am-3:00pm",
+            "cost": "$379 Tuition + $30 Registration Fee"
+          },
+          {
+            "skill": "<strong>Field Player, Goalkeeper</strong>",
+            "type": "Half Day 9:00am-12:00pm",
+            "cost": "$269 Tuition + $30 Registration Fee"
+          }
+        ]
+      }
+    ]
+  },
+  "new-york_Dobbs Ferry_Nike Soccer Camp with the French Football Federation - Mercy College": {
+    "state": "new-york",
+    "city": "Dobbs Ferry",
+    "camp_name": "Nike Soccer Camp with the French Football Federation - Mercy College",
+    "latitude": 41.0145418,
+    "longitude": -73.872635,
+    "sessions": []
+  },
+  "new-york_Locust Valley _Nike Soccer Camp with Beestera Soccer Training - Locust Valley": {
+    "state": "new-york",
+    "city": "Locust Valley ",
+    "camp_name": "Nike Soccer Camp with Beestera Soccer Training - Locust Valley",
+    "latitude": 40.8775225,
+    "longitude": -73.5723052,
+    "sessions": [
+      {
+        "period": "JUL. 28 - AUG. 1, 2025",
+        "gender": "Co-Ed",
+        "age": "Ages: 5 - 15",
+        "subsessions": [
+          {
+            "skill": "<strong>Field Player, Goalkeeper</strong>",
+            "type": "Day 9:00am-3:00pm",
+            "cost": "$459 Tuition + $30 Registration Fee"
+          },
+          {
+            "skill": "<strong>Field Player, Goalkeeper</strong>",
+            "type": "Half Day 9:00am-12:00pm",
+            "cost": "$319 Tuition + $30 Registration Fee"
+          }
+        ]
+      }
+    ]
+  },
+  "new-york_Niskayuna_Nike Soccer Camp with Beestera Soccer Training - Niskayuna": {
+    "state": "new-york",
+    "city": "Niskayuna",
+    "camp_name": "Nike Soccer Camp with Beestera Soccer Training - Niskayuna",
+    "latitude": 42.8154056,
+    "longitude": -73.8928774,
+    "sessions": [
+      {
+        "period": "JUN. 30 - JUL. 3, 2025",
+        "gender": "Co-Ed",
+        "age": "Ages: 5 - 15",
+        "subsessions": [
+          {
+            "skill": "<strong>Field Player, Goalkeeper</strong>",
+            "type": "Day 9:00am-3:00pm",
+            "cost": "$309 Tuition + $30 Registration Fee"
+          },
+          {
+            "skill": "<strong>Field Player, Goalkeeper</strong>",
+            "type": "Half Day 9:00am-12:00pm",
+            "cost": "$219 Tuition + $30 Registration Fee"
+          }
+        ]
+      },
+      {
+        "period": "JUL. 21 - JUL. 25, 2025",
+        "gender": "Co-Ed",
+        "age": "Ages: 5 - 15",
+        "subsessions": [
+          {
+            "skill": "<strong>Field Player, Goalkeeper</strong>",
+            "type": "Day 9:00am-3:00pm",
+            "cost": "$379 Tuition + $30 Registration Fee"
+          },
+          {
+            "skill": "<strong>Field Player, Goalkeeper</strong>",
+            "type": "Half Day 9:00am-12:00pm",
+            "cost": "$269 Tuition + $30 Registration Fee"
+          }
+        ]
+      },
+      {
+        "period": "AUG. 18 - AUG. 22, 2025",
+        "gender": "Co-Ed",
+        "age": "Ages: 5 - 15",
+        "subsessions": [
+          {
+            "skill": "<strong>Field Player, Goalkeeper</strong>",
+            "type": "Day 9:00am-3:00pm",
+            "cost": "$379 Tuition + $30 Registration Fee"
+          },
+          {
+            "skill": "<strong>Field Player, Goalkeeper</strong>",
+            "type": "Half Day 9:00am-12:00pm",
+            "cost": "$269 Tuition + $30 Registration Fee"
+          }
+        ]
+      }
+    ]
+  },
+  "new-york_Rochester_Nike Soccer Camp at Nazareth University": {
+    "state": "new-york",
+    "city": "Rochester",
+    "camp_name": "Nike Soccer Camp at Nazareth University",
+    "latitude": 43.157285,
+    "longitude": -77.615214,
+    "sessions": []
+  },
+  "ohio_Willoughby_Nike Soccer Camp at Andrews Osborne Academy": {
+    "state": "ohio",
+    "city": "Willoughby",
+    "camp_name": "Nike Soccer Camp at Andrews Osborne Academy",
+    "latitude": -33.8015995,
+    "longitude": 151.1836478,
+    "sessions": []
+  },
+  "oklahoma_Edmond_Nike Soccer Camp at Oklahoma Christian University": {
+    "state": "oklahoma",
+    "city": "Edmond",
+    "camp_name": "Nike Soccer Camp at Oklahoma Christian University",
+    "latitude": 35.6571367,
+    "longitude": -97.4649038,
+    "sessions": [
+      {
+        "period": "JUN. 16 - JUN. 19, 2025",
+        "gender": "Co-Ed",
+        "age": "Ages: 6 - 16",
+        "subsessions": [
+          {
+            "skill": "<strong>All Skills</strong>",
+            "type": "Half Day 9am-12pm",
+            "cost": "$279 Tuition + $30 Registration Fee"
+          },
+          {
+            "skill": "<strong>All Skills</strong>",
+            "type": "Day 9am-3pm",
+            "cost": "$389 Tuition + $30 Registration Fee"
+          }
+        ]
+      },
+      {
+        "period": "JUL. 21 - JUL. 24, 2025",
+        "gender": "Co-Ed",
+        "age": "Ages: 6 - 16",
+        "subsessions": [
+          {
+            "skill": "<strong>All Skills</strong>",
+            "type": "Half Day 9am-12pm",
+            "cost": "$279 Tuition + $30 Registration Fee"
+          }
+        ]
+      }
+    ]
+  },
+  "oregon_Bend_Nike Soccer Camp in Bend": {
+    "state": "oregon",
+    "city": "Bend",
+    "camp_name": "Nike Soccer Camp in Bend",
+    "latitude": 44.0581728,
+    "longitude": -121.3153096,
+    "sessions": []
+  },
+  "rhode-island_Barrington_Nike Soccer Camp at Liverpool FC International Academy - St. Andrew's School": {
+    "state": "rhode-island",
+    "city": "Barrington",
+    "camp_name": "Nike Soccer Camp at Liverpool FC International Academy - St. Andrew's School",
+    "latitude": 42.1539141,
+    "longitude": -88.1361888,
+    "sessions": [
+      {
+        "period": "AUG. 11 - AUG. 14, 2025",
+        "gender": "Co-Ed",
+        "age": "Ages: 7 - 14",
+        "subsessions": [
+          {
+            "skill": "<strong>All Skills</strong>",
+            "type": "Day 9am-3pm",
+            "cost": "$459 Tuition + $30 Registration Fee"
+          },
+          {
+            "skill": "<strong>All Skills</strong>",
+            "type": "Half Day 9am-12pm",
+            "cost": "$329 Tuition + $30 Registration Fee"
+          }
+        ]
+      }
+    ]
+  },
+  "rhode-island_Cranston_Nike Soccer Camp with Rhode Island Surf in Cranston - Elite": {
+    "state": "rhode-island",
+    "city": "Cranston",
+    "camp_name": "Nike Soccer Camp with Rhode Island Surf in Cranston - Elite",
+    "latitude": 41.779588,
+    "longitude": -71.4366813,
+    "sessions": [
+      {
+        "period": "JUN. 30 - JUL. 3, 2025",
+        "gender": "Co-Ed",
+        "age": "Ages: 8 - 16",
+        "subsessions": [
+          {
+            "skill": "<strong>Elite</strong>",
+            "type": "Day 9am-3pm",
+            "cost": "$379 Tuition + $30 Registration Fee"
+          },
+          {
+            "skill": "<strong>Elite</strong>",
+            "type": "Half Day 9am-12pm",
+            "cost": "$269 Tuition + $30 Registration Fee"
+          }
+        ]
+      }
+    ]
+  },
+  "rhode-island_Cumberland_Nike Soccer Camp with Next Step Training - Cumberland": {
+    "state": "rhode-island",
+    "city": "Cumberland",
+    "camp_name": "Nike Soccer Camp with Next Step Training - Cumberland",
+    "latitude": 40.1541581,
+    "longitude": -77.2803933,
+    "sessions": [
+      {
+        "period": "JUL. 28 - JUL. 31, 2025",
+        "gender": "Co-Ed",
+        "age": "Ages: 7 - 17",
+        "subsessions": [
+          {
+            "skill": "<strong>High Performance</strong>",
+            "type": "Day (9am-3pm)",
+            "cost": "$399 Tuition + $30 Registration Fee"
+          },
+          {
+            "skill": "<strong>High Performance</strong>",
+            "type": "Half Day (9:00am-12:00pm)",
+            "cost": "$279 Tuition + $30 Registration Fee"
+          }
+        ]
+      }
+    ]
+  },
+  "texas_Dallas_Nike Soccer Camp at Soccer Spectrum - Dallas": {
+    "state": "texas",
+    "city": "Dallas",
+    "camp_name": "Nike Soccer Camp at Soccer Spectrum - Dallas",
+    "latitude": 32.7762719,
+    "longitude": -96.7968559,
+    "sessions": [
+      {
+        "period": "JUL. 14 - JUL. 17, 2025",
+        "gender": "Co-Ed",
+        "age": "Ages: 5 - 16",
+        "subsessions": [
+          {
+            "skill": "<strong>All Skills</strong>",
+            "type": "Half Day (9:00am-12:00pm)",
+            "cost": "$354 Tuition + $30 Registration Fee"
+          },
+          {
+            "skill": "<strong>All Skills</strong>",
+            "type": "Day (9:00am-3:00pm)",
+            "cost": "$454 Tuition + $30 Registration Fee"
+          }
+        ]
+      }
+    ]
+  },
+  "virginia_Harrisonburg_Nike Girls Soccer Camp at Eastern Mennonite University": {
+    "state": "virginia",
+    "city": "Harrisonburg",
+    "camp_name": "Nike Girls Soccer Camp at Eastern Mennonite University",
+    "latitude": 38.4493315,
+    "longitude": -78.8688833,
+    "sessions": []
+  },
+  "washingtonstate_Bellevue_Nike Soccer Camp in Bellevue": {
+    "state": "washingtonstate",
+    "city": "Bellevue",
+    "camp_name": "Nike Soccer Camp in Bellevue",
+    "latitude": 47.6144219,
+    "longitude": -122.192337,
+    "sessions": [
+      {
+        "period": "JUN. 23 - JUN. 26, 2025",
+        "gender": "Co-Ed",
+        "age": "Ages: 6 - 14",
+        "subsessions": [
+          {
+            "skill": "<strong>All Skills</strong>",
+            "type": "Day Camp 9am-3pm",
+            "cost": "$419 Tuition + $30 Registration Fee"
+          },
+          {
+            "skill": "<strong>All Skills</strong>",
+            "type": "Half Day Camp 9am-12pm",
+            "cost": "$299 Tuition + $30 Registration Fee"
+          }
+        ]
+      },
+      {
+        "period": "JUN. 30 - JUL. 3, 2025",
+        "gender": "Co-Ed",
+        "age": "Ages: 6 - 14",
+        "subsessions": [
+          {
+            "skill": "<strong>All Skills</strong>",
+            "type": "Day Camp 9am-3pm",
+            "cost": "$419 Tuition + $30 Registration Fee"
+          },
+          {
+            "skill": "<strong>All Skills</strong>",
+            "type": "Half Day Camp 9am-12pm",
+            "cost": "$299 Tuition + $30 Registration Fee"
+          }
+        ]
+      },
+      {
+        "period": "JUL. 7 - JUL. 10, 2025",
+        "gender": "Co-Ed",
+        "age": "Ages: 6 - 14",
+        "subsessions": [
+          {
+            "skill": "<strong>All Skills</strong>",
+            "type": "Day Camp 9am-3pm",
+            "cost": "$419 Tuition + $30 Registration Fee"
+          },
+          {
+            "skill": "<strong>All Skills</strong>",
+            "type": "Half Day Camp 9am-12pm",
+            "cost": "$299 Tuition + $30 Registration Fee"
+          }
+        ]
+      },
+      {
+        "period": "JUL. 14 - JUL. 17, 2025",
+        "gender": "Co-Ed",
+        "age": "Ages: 6 - 14",
+        "subsessions": [
+          {
+            "skill": "<strong>All Skills</strong>",
+            "type": "Day Camp 9am-3pm",
+            "cost": "$419 Tuition + $30 Registration Fee"
+          },
+          {
+            "skill": "<strong>All Skills</strong>",
+            "type": "Half Day Camp 9am-12pm",
+            "cost": "$299 Tuition + $30 Registration Fee"
+          }
+        ]
+      },
+      {
+        "period": "JUL. 21 - JUL. 24, 2025",
+        "gender": "Co-Ed",
+        "age": "Ages: 6 - 14",
+        "subsessions": [
+          {
+            "skill": "<strong>All Skills</strong>",
+            "type": "Day Camp 9am-3pm",
+            "cost": "$419 Tuition + $30 Registration Fee"
+          },
+          {
+            "skill": "<strong>All Skills</strong>",
+            "type": "Half Day Camp 9am-12pm",
+            "cost": "$299 Tuition + $30 Registration Fee"
+          }
+        ]
+      }
+    ]
+  },
+  "washingtonstate_Puyallup_Nike Soccer Camp with Tacoma Stars - Puyallup": {
+    "state": "washingtonstate",
+    "city": "Puyallup",
+    "camp_name": "Nike Soccer Camp with Tacoma Stars - Puyallup",
+    "latitude": 47.1849009,
+    "longitude": -122.29214,
+    "sessions": [
+      {
+        "period": "JUL. 21 - JUL. 25, 2025",
+        "gender": "Co-Ed",
+        "age": "Ages: 7 - 15",
+        "subsessions": [
+          {
+            "skill": "<strong>Player Development</strong>",
+            "type": "Half Day 9am-12pm",
+            "cost": "$259 Tuition + $30 Registration Fee"
+          },
+          {
+            "skill": "<strong>Player Development</strong>",
+            "type": "Day 9:00am-3:00pm",
+            "cost": "$369 Tuition + $30 Registration Fee"
+          }
+        ]
+      },
+      {
+        "period": "JUL. 21 - JUL. 25, 2025",
+        "gender": "Co-Ed",
+        "age": "Ages: 4 - 6",
+        "subsessions": [
+          {
+            "skill": "<strong>Future Stars</strong>",
+            "type": "Half Day 9am-12pm",
+            "cost": "$259 Tuition + $30 Registration Fee"
+          }
+        ]
+      },
+      {
+        "period": "AUG. 11 - AUG. 15, 2025",
+        "gender": "Co-Ed",
+        "age": "Ages: 7 - 15",
+        "subsessions": [
+          {
+            "skill": "<strong>Player Development</strong>",
+            "type": "Half Day 9am-12pm",
+            "cost": "$259 Tuition + $30 Registration Fee"
+          },
+          {
+            "skill": "<strong>Player Development</strong>",
+            "type": "Day 9:00am-3:00pm",
+            "cost": "$369 Tuition + $30 Registration Fee"
+          }
+        ]
+      },
+      {
+        "period": "AUG. 11 - AUG. 15, 2025",
+        "gender": "Co-Ed",
+        "age": "Ages: 4 - 6",
+        "subsessions": [
+          {
+            "skill": "<strong>Future Stars</strong>",
+            "type": "Half Day 9am-12pm",
+            "cost": "$259 Tuition + $30 Registration Fee"
+          }
+        ]
+      }
+    ]
+  },
+  "washingtonstate_Snohomish_Nike Soccer Camp at Snohomish Sports Dome": {
+    "state": "washingtonstate",
+    "city": "Snohomish",
+    "camp_name": "Nike Soccer Camp at Snohomish Sports Dome",
+    "latitude": 48.0074736,
+    "longitude": -121.7304882,
+    "sessions": [
+      {
+        "period": "JUL. 7 - JUL. 10, 2025",
+        "gender": "Co-Ed",
+        "age": "Ages: 7 - 12",
+        "subsessions": [
+          {
+            "skill": "<strong>All Skills</strong>",
+            "type": "Half Day 9:00am-12:00pm",
+            "cost": "$269 Tuition + $30 Registration Fee"
+          },
+          {
+            "skill": "<strong>All Skills</strong>",
+            "type": "Day 9:00am-3:30pm",
+            "cost": "$489 Tuition + $30 Registration Fee"
+          },
+          {
+            "skill": "<strong>All Skills</strong>",
+            "type": "Half Day 12:30pm-3:30pm",
+            "cost": "$269 Tuition + $30 Registration Fee"
+          }
+        ]
+      },
+      {
+        "period": "JUL. 28 - JUL. 31, 2025",
+        "gender": "Co-Ed",
+        "age": "Ages: 7 - 12",
+        "subsessions": [
+          {
+            "skill": "<strong>All Skills</strong>",
+            "type": "Half Day 9:00am-12:00pm",
+            "cost": "$269 Tuition + $30 Registration Fee"
+          },
+          {
+            "skill": "<strong>All Skills</strong>",
+            "type": "Day 9:00am-3:30pm",
+            "cost": "$489 Tuition + $30 Registration Fee"
+          },
+          {
+            "skill": "<strong>All Skills</strong>",
+            "type": "Half Day 12:30pm-3:30pm",
+            "cost": "$269 Tuition + $30 Registration Fee"
+          }
+        ]
+      }
+    ]
+  },
+  "washingtonstate_Vancouver_Nike Soccer Camp in Vancouver": {
+    "state": "washingtonstate",
+    "city": "Vancouver",
+    "camp_name": "Nike Soccer Camp in Vancouver",
+    "latitude": 49.2608724,
+    "longitude": -123.113952,
+    "sessions": []
+  },
+  "wisconsin_Milwaukee_Nike Soccer Camp at Marquette University": {
+    "state": "wisconsin",
+    "city": "Milwaukee",
+    "camp_name": "Nike Soccer Camp at Marquette University",
+    "latitude": 43.0386475,
+    "longitude": -87.9090751,
+    "sessions": []
+  }
+}
