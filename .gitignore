@@ -172,6 +172,8 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
-.csv
-.json
-.png
+
+# test results
+*.csv
+*.json
+*.png
